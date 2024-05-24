@@ -1,2 +1,2 @@
 # GraduateProject
-Code of graduation project
+毕业设计所用的数据和代码
